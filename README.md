@@ -35,4 +35,13 @@
 
 Kai is designed to be your personal digital assistant, making your workflow smoother, faster, and more efficient. Whether you need help with automation, real-time data retrieval, system control, or AI-powered interactions, Kai is here to assist you. 🚀  
 
-Let me know if you need further refinements! 😊
+📥 Installation & Usage
+Clone the repository:
+git clone https://github.com/akyourowngames/Kai.git
+Install dependencies:
+pip install -r Requirements.txt
+Run Kai:
+python main.py
+
+💡 Contributing
+Feel free to contribute by submitting pull requests or reporting issues.
